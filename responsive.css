@@ -1,0 +1,27 @@
+@media only screen and (min-width: 768px) {
+
+  /* PC styles */
+  .mobile {
+    display: none;
+    /* Ẩn phần mobile */
+  }
+
+  .PC {
+    display: block;
+    /* Hiển thị phần PC */
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+  /* Mobile styles */
+  .mobile {
+    display: block;
+    /* Hiển thị phần mobile */
+  }
+
+  .PC {
+    display: none;
+    /* Ẩn phần PC */
+  }
+}

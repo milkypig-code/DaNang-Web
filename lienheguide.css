@@ -1,0 +1,6 @@
+:root {
+  --white: rgba(255, 255, 255, 1);
+  --primary-white: rgba(255, 255, 255, 1);
+  --blue: rgba(20, 155, 252, 1);
+  --variable-collection-spacing-s: 24px;
+}
